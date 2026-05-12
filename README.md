@@ -43,7 +43,7 @@ export default function PSLGolfWebsite() {
             </h2>
 
             <p className="text-lg text-zinc-300 mb-8 max-w-xl leading-relaxed">
-              PSL Mobile Golf Simulator brings premieum virtual golf entertainment directly to your home, corporate event, birthday party, tournament, or private gathering.
+              PSL Mobile Golf Simulator brings premium virtual golf entertainment directly to your home, corporate event, birthday party, tournament, or private gathering.
             </p>
 
             <div className="flex flex-wrap gap-4">
